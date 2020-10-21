@@ -1,0 +1,14 @@
+Category,Name,Value
+Overall,Current Minimum Lines Conversion Rate,93
+Overall,Number Of Objects,31
+Overall,Lines Of Code,508
+Overall,Total Parsing Errors,0
+Overall,Number Of Databases Containing Objects,3
+Overall,Total Conversion Errors,1
+Overall,Files Not Generated,0
+Overall,Parsing Time,7.6632434
+Overall,Fill Table Symbol Time,0.7841706
+Overall,Fill View Symbol Time,0.0812692
+Overall,Resolve View Dependency Time,0.0666912
+Overall,Pre Process Time,0.0198594
+Overall,Transformation Time,2.2418324

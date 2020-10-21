@@ -1,0 +1,45 @@
+Category,ConvertedObjects,NotConvertedObjects,PartiallyConvertedObjects,Total,ProcessedLoC,NotProcessedLOC,ErrorParsingLOC,TotalParsingErrors,TotalConversionErrors,ErrorConversionLOC,TotalLoc
+Tables,14,0,0,14,168,0,0,0,0,0,168
+Fallback Option,11,0,0,11,11,0,0,0,0,0,11
+Table Journal Option,11,0,0,11,11,0,0,0,0,0,11
+Table After Journal Option,11,0,0,11,11,0,0,0,0,0,11
+Checksum Option,11,0,0,11,11,0,0,0,0,0,11
+Table Merge Block Ratio Option,11,0,0,11,11,0,0,0,0,0,11
+Exact Numeric Type,32,0,0,32,32,0,0,0,0,0,32
+From Clause,14,0,0,14,23,0,0,0,0,0,23
+Var Basic Type,6,0,0,6,6,0,0,0,0,0,6
+Number Type,3,0,0,3,3,0,0,0,0,0,3
+Format Data Type Attribute,5,0,0,5,5,0,0,0,0,0,5
+Primary Key,3,0,0,3,3,0,0,0,0,0,3
+Partition By,1,0,0,1,1,0,0,0,0,0,1
+Views,9,0,0,9,114,0,0,0,0,0,114
+Character String Type,18,0,0,18,18,0,0,0,0,0,18
+Character Set Phrase,15,0,0,15,15,0,0,0,0,0,15
+Case Specific Column Constraint,14,0,0,14,14,0,0,0,0,0,14
+Function Expr,19,0,0,19,19,0,0,0,0,0,19
+Procedures,6,0,0,6,176,0,0,0,0,0,176
+Where Clause,7,0,0,7,16,0,0,0,0,0,16
+Error Level,0,1,0,1,0,0,0,0,0,1,1
+Union,3,0,0,3,3,0,0,0,0,0,3
+Natural Qualified Join,0,1,0,1,0,3,0,0,0,0,3
+Set Operation,3,0,0,3,49,0,0,0,0,0,49
+Concatenation,14,0,0,14,14,0,0,0,0,0,14
+Interval Type,16,5,0,21,16,5,0,0,0,0,21
+Cast Argument By Data Attribute,1,0,0,1,1,0,0,0,0,0,1
+Assignment Stat,33,0,0,33,37,0,0,0,0,0,37
+Check Column Constraint,1,0,0,1,1,0,0,0,0,0,1
+Binary Large Object String Type,1,0,0,1,1,0,0,0,0,0,1
+Compress Column Constraint,3,0,0,3,3,0,0,0,0,0,3
+Inserts,1,0,0,1,1,0,0,0,0,0,1
+For Statement,1,0,0,1,17,0,0,0,0,0,17
+Macros,2,0,0,2,16,0,0,0,0,0,16
+Macro Argument,4,0,0,4,4,0,0,0,0,0,4
+Condition Handler,1,0,0,1,4,0,0,0,0,0,4
+Dynamic Result Set Routine Characteristic,3,0,0,3,3,0,0,0,0,0,3
+Cursor Declare,8,0,0,8,12,0,0,0,0,0,12
+Null Predicate,5,0,0,5,6,0,0,0,0,0,6
+If Statement,7,0,0,7,45,0,0,0,0,0,45
+Prepare Statement,3,0,0,3,3,0,0,0,0,0,3
+Cursor Open,8,0,0,8,8,0,0,0,0,0,8
+Fetch Statement,11,0,0,11,11,0,0,0,0,0,11
+While Statement,3,0,0,3,40,0,0,0,0,0,40

@@ -1,0 +1,15 @@
+/* <sc-table> DEMO_DB.DimSalesReason2 </sc-table> */
+CREATE SET TABLE DEMO_DB.DimSalesReason2 ,NO FALLBACK ,
+     NO BEFORE JOURNAL,
+     NO AFTER JOURNAL,
+     CHECKSUM = DEFAULT,
+     DEFAULT MERGEBLOCKRATIO
+     (
+      SalesReasonKey INTEGER NOT NULL,
+      SalesReasonAlternateKey INTEGER NOT NULL,
+      SalesReasonName VARCHAR(50) CHARACTER SET LATIN NOT CASESPECIFIC NOT NULL,
+      SalesReasonReasonType VARCHAR(50) CHARACTER SET LATIN NOT CASESPECIFIC NOT NULL, 
+PRIMARY KEY ( SalesReasonKey ))
+;
+
+
