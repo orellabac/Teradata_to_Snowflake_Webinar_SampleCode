@@ -1,0 +1,19 @@
+{
+  "name": "tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "dateformat": "^3.0.3",
+    "deasync": "^0.1.20",
+    "snowflake-sdk": "^1.5.2",
+    "stacktrace-parser": "^0.1.10",
+    "@mobilize/snowflake-instrumentation-helpers": "^1.0.0"
+  }
+}
