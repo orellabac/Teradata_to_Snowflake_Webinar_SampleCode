@@ -1,0 +1,19 @@
+image: gitpod/workspace-full
+
+tasks:
+  - init: 'echo "TODO: Replace with init/build command"'
+    command: 'echo "TODO: Replace with command to start project"'
+
+vscode:
+  extensions:
+    - hbenl.vscode-test-explorer@2.19.3:iVG8uCe4cULIZJRIaZMl4A==
+    - hbenl.vscode-mocha-test-adapter@2.7.2:sMMi6OqycWH35P5G4IEE7A==
+    - littlefoxteam.vscode-python-test-adapter@0.6.2:VGer7R3GAZdKwQcXD4jV1Q==
+    - ryanluker.vscode-coverage-gutters@2.6.0:33nQaAI3b+fp7LBxpMMZmw==
+    - Gruntfuggly.todo-tree@0.0.177:GCyi2twUFe/rN35G99jXYQ==
+    - orellabacCR.snowscript-js@0.0.2:N6UPBlM3VrtTJaQWL45J3g==
+    - mtxr.sqltools@0.23.0:URu1xkw6kC4qTTO170kptA==
+    - entepe85.gitlens@11.0.2:FJr9g9ULgySyb06Us88Qww==
+    - koszti.snowflake-driver-for-sqltools@0.2.0:aMX1rwgkSjgFaCktaRj1pA==
+    - bokuweb.vscode-ripgrep@0.2.2:pd64h8oJTH0FBkNimNvXZw==
+    - akamud.vscode-theme-onelight@2.2.2:M2BwKJpM2SRhNEue/PupRg==

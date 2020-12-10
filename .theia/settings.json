@@ -1,0 +1,21 @@
+{
+    "sqltools.connections": [
+        {
+            "snowflakeOptions": {
+                "clientSessionKeepAlive": true,
+                "clientSessionKeepAliveHeartbeatFrequency": 3600,
+                "schema": "public",
+                "role": "aa"
+            },
+            "previewLimit": 50,
+            "driver": "Snowflake",
+            "name": "P",
+            "account": "AWS_CAS2",
+            "username": "user1",
+            "password": "password1",
+            "database": "Database1",
+            "warehouse": "Warehouse1"
+        }
+    ],
+    "python.pythonPath": "/bin/python3"
+}
