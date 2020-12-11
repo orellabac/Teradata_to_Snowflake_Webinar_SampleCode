@@ -5,6 +5,11 @@
         "**/.hg": true,
         "**/CVS": true,
         "**/.DS_Store": true,
-        "pythonenv3.8/" :true
+        "pythonenv3.8/" :true,
+        ".theia" : true,
+        "**/.snowsql":true,
+        ".pytest_cache":true,
+        "node_modules":true
+        
     }
 }

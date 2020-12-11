@@ -1,21 +1,24 @@
 {
-    "sqltools.connections": [
-        {
-            "snowflakeOptions": {
-                "clientSessionKeepAlive": true,
-                "clientSessionKeepAliveHeartbeatFrequency": 3600,
-                "schema": "public",
-                "role": "aa"
-            },
-            "previewLimit": 50,
-            "driver": "Snowflake",
-            "name": "P",
-            "account": "AWS_CAS2",
-            "username": "user1",
-            "password": "password1",
-            "database": "Database1",
-            "warehouse": "Warehouse1"
-        }
+    "mochaExplorer.ui": "qunit",
+    "mochaExplorer.files": "tests/**/*.spec.js",
+    "mochaExplorer.require": [
+        "source-map-support/register"
     ],
-    "python.pythonPath": "/bin/python3"
+    "mochaExplorer.envPath": ".env",
+    "mochaExplorer.timeout": 200000,
+    "mochaExplorer.ignore": [
+        "tests/**/node_modules/**/*.*"
+    ],
+    "python.testing.pytestEnabled": true,
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "node_modules": true,
+        ".vscode":true,
+        "**/__pycache__":true,
+        "package-lock.json":true
+    }
 }

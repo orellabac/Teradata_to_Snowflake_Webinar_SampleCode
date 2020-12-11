@@ -1,1 +1,5 @@
 pythonenv3.8/
+node_modules/
+combined.log
+error.log
+package-lock.json
